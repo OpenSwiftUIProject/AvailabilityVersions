@@ -1,3 +1,11 @@
+# Community fork of AvailabilityVersions
+
+This is a community-maintained fork of Apple's AvailabilityVersions repo.
+
+For more information on the fork, please see [docs/Fork.md](docs/Fork.md).
+
+The original AvailabilityVersions README follows.
+
 # AvailabilityVersions
 
 ## Intro
@@ -27,4 +35,5 @@ The build system is implemented in `CMake`, but a `Makefile` is provided to supp
 3. The install phase then copies all the processed files into the `DSTROOT`
 
 <!--
+-->
 -->
