@@ -345,3 +345,83 @@ version     watchos             10.3
 version     bridgeos            8.3
 version     driverkit           23.3
 set         2023_SU_D           2023.14.1    23.3.0
+version     macos               14.4
+version     ios                 17.4
+version     tvos                17.4
+version     watchos             10.4
+version     bridgeos            8.4
+version     driverkit           23.4
+version     visionos            1.1
+set         2023_SU_E           2023.15.1    23.4.0
+version     macos               14.5
+version     ios                 17.5
+version     tvos                17.5
+version     watchos             10.5
+version     bridgeos            8.5
+version     driverkit           23.5
+version     visionos            1.2
+set         2023_SU_F           2023.16.1    23.5.0
+version     macos               14.7
+version     ios                 17.7
+version     tvos                17.6
+version     watchos             10.7
+version     bridgeos            8.6
+version     driverkit           23.6
+version     visionos            1.3
+set         2023_SU_G           2023.17.1    23.6.0
+version     macos               15.0
+version     ios                 18.0
+version     tvos                18.0
+version     watchos             11.0
+version     bridgeos            9.0
+version     driverkit           24.0
+version     visionos            2.0
+set         fall_2024           2024.0.0     24.0.0
+version     macos               15.1
+version     ios                 18.1
+version     tvos                18.1
+version     watchos             11.1
+version     bridgeos            9.1
+version     driverkit           24.1
+version     visionos            2.1
+set         2024_SU_B           2024.1.0     24.1.0
+version     macos               15.2
+version     ios                 18.2
+version     tvos                18.2
+version     watchos             11.2
+version     bridgeos            9.2
+version     driverkit           24.2
+version     visionos            2.2
+set         2024_SU_C           2024.2.0     24.2.0
+version     macos               15.3
+version     ios                 18.3
+version     tvos                18.3
+version     watchos             11.3
+version     bridgeos            9.3
+version     driverkit           24.3
+version     visionos            2.3
+set         2024_SU_D           2024.3.0     24.3.0
+version     macos               15.4
+version     ios                 18.4
+version     tvos                18.4
+version     watchos             11.4
+version     bridgeos            9.4
+version     driverkit           24.4
+version     visionos            2.4
+set         2024_SU_E           2024.4.0     24.4.0
+version     macos               15.5
+version     ios                 18.5
+version     tvos                18.5
+version     watchos             11.5
+version     bridgeos            9.5
+version     driverkit           24.5
+version     visionos            2.5
+set         2024_SU_F           2024.5.0     24.5.0
+version     macos               15.6
+version     ios                 18.6
+version     tvos                18.6
+version     watchos             11.6
+version     bridgeos            9.6
+version     driverkit           24.6
+version     visionos            2.6
+set         2024_SU_G           2024.6.0     24.6.0
